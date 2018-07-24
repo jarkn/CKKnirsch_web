@@ -1,1 +1,1 @@
-# CKKnirsch_web
+This is git for www.ckknirsch.sk
